@@ -1,6 +1,6 @@
 # Customer Churn Prediction — Full Walkthrough
 
-This project predicts whether a telecom customer will **churn** (cancel their service) or not, based on their account and usage data. This README explains **every step in depth** — not just what was done, but *why*, what each concept means, and the confusions that commonly come up while learning this.
+This project predicts whether a telecom customer will **churn** (cancel their service) or not, based on their account and usage data. 
 
 ---
 
