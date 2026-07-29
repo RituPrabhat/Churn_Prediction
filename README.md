@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Full Walkthrough
+# Customer Churn Prediction 
 
 This project predicts whether a telecom customer will **churn** (cancel their service) or not, based on their account and usage data. 
 
