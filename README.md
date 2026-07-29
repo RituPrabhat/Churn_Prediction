@@ -8,10 +8,6 @@ This project predicts whether a telecom customer will **churn** (cancel their se
 
 We're predicting one of exactly two outcomes for each customer: **"Yes, they will churn"** or **"No, they won't."** This is called a **classification problem** in machine learning — as opposed to a **regression problem**, where you'd predict a continuous number (like predicting a house price). A common beginner confusion: "Logistic Regression" has the word *Regression* in it, but it is actually a **classification algorithm**, not a regression one — the name is historical/mathematical, not descriptive of its use case. It predicts a *probability* (a number between 0 and 1) and then converts that probability into a category (Yes/No) using a cutoff, usually 0.5.
 
-### Why this project, and why "rigorously," instead of a quick tutorial version?
-
-Most beginner tutorials do: load data → one model → print accuracy → done. That skips almost everything that matters in real ML work: understanding your data, handling messy/broken values, choosing metrics that actually reflect the business problem, and comparing multiple models fairly. This project intentionally does all of that, because that rigor is what separates "I followed a tutorial" from "I understand ML."
-
 ---
 
 ## 2. The dataset
